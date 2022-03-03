@@ -20,7 +20,7 @@ ul li a{
     text-decoration: none;
     color: black;
 }
-.home{
+.homepage{
     display: flex;
     width: 100%;
     margin: 5px 40px;
@@ -28,7 +28,7 @@ ul li a{
     padding: 50px;
     /* height: 80vh; */
 }
-.name-para{
+.name-break{
     /* background-color: red; */
     /* text-align: center; */
     width: 50%;
@@ -38,50 +38,50 @@ ul li a{
 .name h1{
     font-size: 40px;
 }
-.name-para{
+.name-break{
     line-height: 1.6;
 }
-.img{
+.image{
     /* background-color: yellow; */
     width: 50%;
     padding-left: 50px;
 
 
 }
-img{
+image{
     width: 350px;
     /* margin-top: -140px; */
     /* height: 400px; */
 }
-.projects-title{
+.projects-head{
     text-align:center;
     margin: 10px 30px;
     padding: 5px;
     font-size: 50px;
 }
-.projects-content h4{
+.projects-note h4{
     text-align: center;
     margin: 5px 30px;
     padding: 5px;
     font-size: 25px;
 }
-.projects-cont{
+.projects-var
     margin: 10px 20px;
     padding: 5px;
     font-size: 18px;
 }
-.links{
+.live{
     text-align: center;
 }
 .link{
     margin: 1px;
     padding: 10px;
 }
-.link h3,.link p{
+.live h3,.live p{
     margin: 5px;
     padding: 5px;
 }
-.container-low{
+.box-low{
     display: flex;
     margin: 15px;
     color: maroon;
@@ -121,7 +121,7 @@ footer{
     padding: 5px;
     font-size: 20px;
 }
-.project-p{
+.project-j{
     text-align: center;
     font-size:20px;
 }
