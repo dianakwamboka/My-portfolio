@@ -6,3 +6,4 @@
 html - structuring my web
 css - for styling 
 # setup instruction and installation
+- clone this repository to a location in your file system." "
