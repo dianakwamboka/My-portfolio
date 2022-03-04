@@ -5,3 +5,4 @@
 # Technologies used
 html - structuring my web
 css - for styling 
+# setup instruction and installation
